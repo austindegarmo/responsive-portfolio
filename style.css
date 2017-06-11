@@ -210,10 +210,16 @@ input[type=submit] {
       float: left;
     }
 }
-px
+
 @media screen and (max-width: 768px) {
     .container {
       width: 80%;
     }
   
+}
+
+@media screen and (max-width: 640px) {
+    .container {
+      width: 80%;
+    }
 }
